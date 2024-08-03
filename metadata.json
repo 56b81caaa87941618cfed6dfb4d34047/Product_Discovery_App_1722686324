@@ -4,5 +4,6 @@
     "project_description": "add an app to find new products",
     "creation_time": "2024-08-03 17:28:44.152301",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image showcases a cosmic landscape with a dominant magenta and purple color scheme, featuring futuristic, surrealistic elements and glowing celestial bodies. The style blends vibrant neon highlights with dreamlike, ethereal visuals against a starry background."
 }
